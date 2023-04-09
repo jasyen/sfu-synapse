@@ -6,7 +6,10 @@ Members
 - Jason.N
 - Rachel.S
 
-Link to application: http://34.30.167.71/
+
+Link to application: http://34.134.234.5/
+<br>
+_* We had to restart the VMs because we ran out of credits. (already notified the professor)_
 <br>
 Development version: https://20230322t232139-dot-sfu-synapse.uc.r.appspot.com/
 <br>
